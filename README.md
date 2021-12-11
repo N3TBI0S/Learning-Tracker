@@ -30,6 +30,8 @@
 |OpenGL           | :red_circle: | |      |
 |WinAPI              | :red_circle: |  |      |
 
+## Other
+
 ## Credits
 Big shoutout to the big dog [Rake](https://guidedhacking.com/) for creating the best game-hacking forum ever created.. [GuidedHacking](https://guidedhacking.com/), [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) for the best  [Become a Full Stack Developer](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw).
 
