@@ -1,4 +1,4 @@
-# Learning-Tracker
+# Learning Tracker
 **This is a place to keep track of progress towards game-hacking mastery!**
 
 :link: Check out my profile @ [GuidedHacking.com](https://guidedhacking.com/members/n3tbi0s.274842/) 
