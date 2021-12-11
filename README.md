@@ -4,8 +4,8 @@
 :link: Check out my profile @ [GuidedHacking.com](https://guidedhacking.com/members/n3tbi0s.274842/) 
 
 **Sections:**  |
-[Courses Taken]() |
-[Reverse Engineering Skills]() |
+[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses-and-resources) |
+[Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
 [C++ Skills]() |
 [Other]() |
 [Credits]() |
