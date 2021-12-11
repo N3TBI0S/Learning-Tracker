@@ -23,3 +23,7 @@
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |IDA PRO             | :red_circle: | |      |
 |Re-Class.NET              | :red_circle: |  |      |
+
+## License
+This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
+**Feel free to clone or adapt any parts of this doc that you find useful**
