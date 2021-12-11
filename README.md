@@ -6,7 +6,7 @@
 **Sections:**  |
 [Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses-and-resources) |
 [Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
-[C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-+-+) |
+[C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-plus-plus) |
 [Other](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#other) |
 [Credits](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#credits) |
 [License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license) |
@@ -24,7 +24,7 @@
 |IDA PRO             | :red_circle: | |      |
 |Re-Class.NET              | :red_circle: |  |      |
 
-## C++
+## C Plus Plus
 | Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |OpenGL           | :red_circle: | |      |
