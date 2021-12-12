@@ -24,23 +24,24 @@
 |[ GHB4 - Anti-Debug, AntiCheat & Kernel Mode](https://guidedhacking.com/threads/ghb4-anti-debug-anticheat-kernel-mode.15445/ "GHB4 - Anti-Debug, AntiCheat & Kernel Mode")|Rake | TBA |[:lock:](# "Planned") | |
 
 ## Reverse Engineering
-| Tool\Tech            |       Basic          |      Competent       |       Advanced       | 
+| Tool            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |IDA PRO             | [:red_circle:](# "n00b") | |      |
 |Re-Class.NET              | [:red_circle:](# "n00b") |  |      |
 
 ## C Plus Plus
-| Tool\Tech            |       Basic          |      Competent       |       Advanced       | 
+| Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |OpenGL           | [:red_circle:](# "n00b") | |      |
 |WinAPI              | [:red_circle:](# "n00b") |  |      |
 
 ## Resources
-| Website            |       Topic          |     YouTube Channel    | Worth It? |
+| Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|[GuidedHacking](https://guidedhacking.com/)| Game-Hacking | [Here](https://www.youtube.com/c/GuidedHacking) |👍 |
+|[GuidedHacking](https://guidedhacking.com/)| Game-Hacking | [YouTube Here](https://www.youtube.com/c/GuidedHacking) |👍 |
 |[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) | C++ & Game Engines | [Here](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) |   👍   |
-|[LearnCPP.com](https://www.learncpp.com/) | Learning C++ | N/A - Website [Here](https://www.learncpp.com/) | 👍
+|[LearnCPP](https://www.learncpp.com/) | Learning C++ | Website [Here](https://www.learncpp.com/) | 👍 |
+|[Udemy](https://www.udemy.com/) | Too Many To List | Website [Here](https://www.udemy.com/) | 👍 |
 
 ## License
 This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
