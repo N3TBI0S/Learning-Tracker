@@ -39,7 +39,7 @@
 | Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |[GuidedHacking](https://guidedhacking.com/)| Game-Hacking | [YouTube Here](https://www.youtube.com/c/GuidedHacking) |👍 |
-|[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) | C++ & Game Engines | [Here](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) |   👍   |
+|[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) | C++ & Game Engines | [YouTube Here](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) |   👍   |
 |[LearnCPP](https://www.learncpp.com/) | Learning C++ | Website [Here](https://www.learncpp.com/) | 👍 |
 |[Udemy](https://www.udemy.com/) | Too Many To List | Website [Here](https://www.udemy.com/) | 👍 |
 
