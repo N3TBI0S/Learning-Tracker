@@ -8,7 +8,7 @@
 [Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
 [C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-plus-plus) |
 [Other](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#other) |
-[Credits](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#credits) |
+[Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
 [License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license) |
 
 ---
@@ -35,12 +35,12 @@
 |OpenGL           | [:red_circle:](# "n00b") | |      |
 |WinAPI              | [:red_circle:](# "n00b") |  |      |
 
-## Other
-
-## Credits
-- Big shoutout to the big dog [Rake](https://guidedhacking.com/) for creating the best game-hacking forum ever created.. [GuidedHacking](https://guidedhacking.com/)
-- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) for his YouTube channel and the [best C++ playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
-- [LearnCPP.com](https://www.learncpp.com/) for making such awesome content for free.
+## Resources
+| Website            |       Topic          |     YouTube Channel    | Worth It? |
+|-----------------|:--------------------:|:--------------------:|:--------------------:|
+|[GuidedHacking](https://guidedhacking.com/)| Game-Hacking | [Here](https://www.youtube.com/c/GuidedHacking) |👍 |
+|[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) | C++ & Game Engines | [Here](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) |   👍   |
+|[LearnCPP.com](https://www.learncpp.com/) | Learning C++ | N/A - Website [Here](https://www.learncpp.com/) | 👍
 
 ## License
 This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
