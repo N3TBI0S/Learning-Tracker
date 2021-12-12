@@ -8,7 +8,7 @@
 [Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
 [C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-plus-plus) |
 [Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
-[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license) |
+[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license)
 
 ---
 
