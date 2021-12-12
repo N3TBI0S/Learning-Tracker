@@ -38,7 +38,9 @@
 ## Other
 
 ## Credits
-Big shoutout to the big dog [Rake](https://guidedhacking.com/) for creating the best game-hacking forum ever created.. [GuidedHacking](https://guidedhacking.com/), [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) for the best  [Become a Full Stack Developer](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw).
+- Big shoutout to the big dog [Rake](https://guidedhacking.com/) for creating the best game-hacking forum ever created.. [GuidedHacking](https://guidedhacking.com/)
+- [The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) for his YouTube channel and the [best C++ playlist](https://www.youtube.com/playlist?list=PLlrATfBNZ98dudnM48yfGUldqGD0S4FFb)
+- [LearnCPP.com](https://www.learncpp.com/) for making such awesome content for free.
 
 ## License
 This project is licensed under the terms of the BSD 3-clause "New" or "Revised" license.<br>
