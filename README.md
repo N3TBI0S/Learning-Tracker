@@ -4,7 +4,7 @@
 :link: Check out my profile @ [GuidedHacking.com](https://guidedhacking.com/members/n3tbi0s.274842/) 
 
 **Sections:** 
-[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses-and-resources) |
+[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses) |
 [Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
 [C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-plus-plus) |
 [Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
@@ -12,7 +12,7 @@
 
 ---
 
-## Courses and resources
+## Courses
 | Course | Instructor     | Date (Started)   | Status   | Certification  |
 |--------|----------------|:----------------:|:--------:|:--------------:|
 |[Game Hacking: Cheat Engine Game Hacking Basics](https://www.udemy.com/course/cheat-engine-game-hacking-basics/ "Game Hacking: Cheat Engine Game Hacking Basics")|Paul Chin |November 2021|[:checkered_flag:](# "Complete") | [![Certificate](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/star.png)](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Certificates/GameHacking-CheatEngine_PaulChin.jpg "View Cerificate") |
@@ -23,13 +23,13 @@
 |[ GHB4 - Anti-Debug, AntiCheat & Kernel Mode](https://guidedhacking.com/threads/ghb4-anti-debug-anticheat-kernel-mode.15445/ "GHB4 - Anti-Debug, AntiCheat & Kernel Mode")|Rake | TBA |[:lock:](# "Planned") | |
 
 ## Reverse Engineering
-| Tech            |       Basic          |      Competent       |       Advanced       | 
+| Tool\Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |IDA PRO             | [:red_circle:](# "n00b") | |      |
 |Re-Class.NET              | [:red_circle:](# "n00b") |  |      |
 
 ## C Plus Plus
-| Tech            |       Basic          |      Competent       |       Advanced       | 
+| Tool\Tech            |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |OpenGL           | [:red_circle:](# "n00b") | |      |
 |WinAPI              | [:red_circle:](# "n00b") |  |      |
