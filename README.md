@@ -6,11 +6,12 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.png)](https://github.com/firstcontributions/open-source-badges)
 
 **Sections:** 
-[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses) |
-[Reverse Engineering Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#reverse-engineering) |
-[C++ Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#c-plus-plus) |
-[Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
-[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license)
+[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Courses) |
+[Windows Administration](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Windows-Administration) |
+[Python Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Python) |
+[WPF Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Windows-Presentation-Foundation) |
+[Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Resources) |
+[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#License)
 
 ---
 
@@ -18,20 +19,20 @@
 | Course | Instructor     | Date (Started)   | Status   | Certification  |
 |--------|:----------------:|:----------------:|:--------:|:--------------:|
 |[Game Hacking: Cheat Engine Game Hacking Basics](https://www.udemy.com/course/cheat-engine-game-hacking-basics/ "Game Hacking: Cheat Engine Game Hacking Basics")|Paul Chin |November 2021|![](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/complete.png "Complete") | [![Certificate](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/star.png)](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Certificates/GameHacking-CheatEngine_PaulChin.jpg "View Cerificate") |
-|[Reverse Engineering, Memory Hacking and Software Protection](https://www.udemy.com/course/reverse-engineering-packed-programs/ "Reverse Engineering, Memory Hacking and Software Protection")|Paul Chin |December 2021|[:clock1030:](# "In Progress") | |
-|[Reverse Engineering 1: x64dbg Debugger for Beginners](https://www.udemy.com/course/x64dbg-debugger/ "Reverse Engineering 1: x64dbg Debugger for Beginners")|Paul Chin |December 2021|[:clock1030:](# "In Progress") | |
-|[GHB1 - Start Here Beginner Guide to Game Hacking](https://guidedhacking.com/threads/ghb1-start-here-beginner-guide-to-game-hacking.5911/ "GHB1 - Start Here Beginner Guide to Game Hacking")|Rake |November 2021|[:clock1030:](# "In Progress") | |
-|[ GHB2 - Beginners Guide To Reverse Engineering](https://guidedhacking.com/threads/ghb2-beginners-guide-to-reverse-engineering.13446/ " GHB2 - Beginners Guide To Reverse Engineering")|Rake | TBA |[:lock:](# "Planned") | |
-|[ GHB3 - Intermediate Guide to Game Hacking](https://guidedhacking.com/threads/ghb3-intermediate-guide-to-game-hacking.13495/ " GHB3 - Intermediate Guide to Game Hacking")|Rake | TBA |[:lock:](# "Planned") | |
-|[ GHB4 - Anti-Debug, AntiCheat & Kernel Mode](https://guidedhacking.com/threads/ghb4-anti-debug-anticheat-kernel-mode.15445/ "GHB4 - Anti-Debug, AntiCheat & Kernel Mode")|Rake | TBA |[:lock:](# "Planned") | |
 
-## Reverse Engineering
-| Tool            |       Basic          |      Competent       |       Advanced       | 
+## Windows Administration
+| Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|IDA PRO             | [:red_circle:](# "n00b") | |      |
-|Re-Class.NET              | [:red_circle:](# "n00b") |  |      |
+|OpenGL           | [:red_circle:](# "n00b") | |      |
+|WinAPI              | [:red_circle:](# "n00b") |  |      |
 
-## C Plus Plus
+## Python
+| Tool         |       Basic          |      Competent       |       Advanced       | 
+|-----------------|:--------------------:|:--------------------:|:--------------------:|
+|OpenGL           | [:red_circle:](# "n00b") | |      |
+|WinAPI              | [:red_circle:](# "n00b") |  |      |
+
+## Windows Presentation Foundation
 | Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |OpenGL           | [:red_circle:](# "n00b") | |      |
@@ -40,9 +41,9 @@
 ## Resources
 | Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|[GuidedHacking](https://guidedhacking.com/)| Game-Hacking | [YouTube Here](https://www.youtube.com/c/GuidedHacking) |👍 |
-|[The Cherno](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) | C++ & Game Engines | [YouTube Here](https://www.youtube.com/channel/UCQ-W1KE9EYfdxhL6S4twUNw) |   👍   |
-|[LearnCPP](https://www.learncpp.com/) | Learning C++ | [Website Here](https://www.learncpp.com/) | 👍 |
+|[ITProTV](https://www.itpro.tv/)| IT Career Advancement | [Website Here](https://www.itpro.tv/) |👍 |
+|[Server Academy](https://www.youtube.com/c/ServerAcademy) | Windows Administration | [YouTube Here](https://www.youtube.com/c/ServerAcademy) |   👍   |
+|[FreeCodeCamp](https://www.freecodecamp.org/) | Learning Python | [Website Here](https://www.freecodecamp.org/) | 👍 |
 |[Udemy](https://www.udemy.com/) | Too Many To List | [Website Here](https://www.udemy.com/) | 👍 |
 
 ## License
