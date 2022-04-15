@@ -6,12 +6,12 @@
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v3/open-source.png)](https://github.com/firstcontributions/open-source-badges)
 
 **Sections:** 
-[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Courses) |
-[Windows Administration](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Windows-Administration) |
-[Python Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Python) |
-[WPF Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Windows-Presentation-Foundation) |
-[Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#Resources) |
-[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#License)
+[Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses) |
+[Windows Administration](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#windows-administration) |
+[Python Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#python) |
+[WPF Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#windows-presentation-foundation) |
+[Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
+[License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license)
 
 ---
 
