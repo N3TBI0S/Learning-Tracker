@@ -19,24 +19,26 @@
 | Course | Instructor     | Date (Started)   | Status   | Certification  |
 |--------|:----------------:|:----------------:|:--------:|:--------------:|
 |[Game Hacking: Cheat Engine Game Hacking Basics](https://www.udemy.com/course/cheat-engine-game-hacking-basics/ "Game Hacking: Cheat Engine Game Hacking Basics")|Paul Chin |November 2021|![](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/complete.png "Complete") | [![Certificate](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/star.png)](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Certificates/GameHacking-CheatEngine_PaulChin.jpg "View Cerificate") |
+|[100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/ "100 Days of Code: The Complete Python Pro Bootcamp for 2022")| Angela Yu |April 2022| :runner: | |
 
 ## Windows Administration
 | Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|OpenGL           | [:red_circle:](# "n00b") | |      |
-|WinAPI              | [:red_circle:](# "n00b") |  |      |
+|Virtual Lab Setup              | [:red_circle:](# "n00b") | [:red_circle:](# "lessn00b") |      |
+|Active Directory           | [:red_circle:](# "n00b") | [:red_circle:](# "lessn00b") |      |
+|Group Policy Creation & Deployment             | [:red_circle:](# "n00b") |  |      |
+|PowerShell              | [:red_circle:](# "n00b") |  |      |
 
 ## Python
 | Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|OpenGL           | [:red_circle:](# "n00b") | |      |
-|WinAPI              | [:red_circle:](# "n00b") |  |      |
+|Foundations           | [:red_circle:](# "n00b") | |      |
 
 ## Windows Presentation Foundation
-| Tool         |       Basic          |      Competent       |       Advanced       | 
+| Language         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
-|OpenGL           | [:red_circle:](# "n00b") | |      |
-|WinAPI              | [:red_circle:](# "n00b") |  |      |
+|C#           | [:red_circle:](# "n00b") | |      |
+|XAML              | [:red_circle:](# "n00b") |  |      |
 
 ## Resources
 | Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
