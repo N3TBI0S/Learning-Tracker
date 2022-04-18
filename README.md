@@ -19,7 +19,7 @@
 | Course | Instructor     | Date (Started)   | Status   | Certification  |
 |--------|:----------------:|:----------------:|:--------:|:--------------:|
 |[Game Hacking: Cheat Engine Game Hacking Basics](https://www.udemy.com/course/cheat-engine-game-hacking-basics/ "Game Hacking: Cheat Engine Game Hacking Basics")|Paul Chin |November 2021|![](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/complete.png "Complete") | [![Certificate](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/star.png)](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Certificates/GameHacking-CheatEngine_PaulChin.jpg "View Cerificate") |
-|[100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/learn-csharp-for-beginners-crash-course/learn/lecture/12530342#overview "Learn C# for Beginners Crash Course")| Tim Buchalka |April 2022| :runner: | |
+|[Learn C# for Beginners Crash Course](https://www.udemy.com/course/learn-csharp-for-beginners-crash-course/learn/lecture/12530342#overview "Learn C# for Beginners Crash Course")| Tim Buchalka |April 2022| :runner: | |
 
 ## Windows Administration
 | Tool         |       Basic          |      Competent       |       Advanced       | 
