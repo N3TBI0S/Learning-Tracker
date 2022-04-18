@@ -8,7 +8,7 @@
 **Sections:** 
 [Courses Taken](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#courses) |
 [Windows Administration](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#windows-administration) |
-[Python Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#python) |
+[C Sharp](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#C-Sharp) |
 [WPF Skills](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#windows-presentation-foundation) |
 [Resources](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#resources) |
 [License](https://github.com/N3TBI0S/Learning-Tracker/blob/master/README.md#license)
@@ -19,7 +19,7 @@
 | Course | Instructor     | Date (Started)   | Status   | Certification  |
 |--------|:----------------:|:----------------:|:--------:|:--------------:|
 |[Game Hacking: Cheat Engine Game Hacking Basics](https://www.udemy.com/course/cheat-engine-game-hacking-basics/ "Game Hacking: Cheat Engine Game Hacking Basics")|Paul Chin |November 2021|![](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/complete.png "Complete") | [![Certificate](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Icons/star.png)](https://github.com/N3TBI0S/Learning-Tracker/blob/main/Certificates/GameHacking-CheatEngine_PaulChin.jpg "View Cerificate") |
-|[100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/100-days-of-code/ "100 Days of Code: The Complete Python Pro Bootcamp for 2022")| Angela Yu |April 2022| :runner: | |
+|[100 Days of Code: The Complete Python Pro Bootcamp for 2022](https://www.udemy.com/course/learn-csharp-for-beginners-crash-course/learn/lecture/12530342#overview "Learn C# for Beginners Crash Course")| Tim Buchalka |April 2022| :runner: | |
 
 ## Windows Administration
 | Tool         |       Basic          |      Competent       |       Advanced       | 
@@ -29,16 +29,10 @@
 |Group Policy Creation & Deployment             | [:red_circle:](# "n00b") |  |      |
 |PowerShell              | [:red_circle:](# "n00b") |  |      |
 
-## Python
+## C Sharp
 | Tool         |       Basic          |      Competent       |       Advanced       | 
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |Foundations           | [:red_circle:](# "n00b") | |      |
-
-## Windows Presentation Foundation
-| Language         |       Basic          |      Competent       |       Advanced       | 
-|-----------------|:--------------------:|:--------------------:|:--------------------:|
-|C#           | [:red_circle:](# "n00b") | |      |
-|XAML              | [:red_circle:](# "n00b") |  |      |
 
 ## Resources
 | Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
