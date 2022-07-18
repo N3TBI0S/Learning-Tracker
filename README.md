@@ -1,5 +1,5 @@
 # Learning Tracker
-**This is a place to keep track of progress towards game-hacking mastery!**
+**This is a place to keep track of progress towards being a swiss army knife!**
 
 :link: Check out my profile @ [Microsoft Docs](https://docs.microsoft.com/en-us/users/michaelalestock-93/****)
 
