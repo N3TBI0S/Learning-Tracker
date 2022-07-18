@@ -38,8 +38,8 @@
 | Resource Name            |       Topic Areas         |     Website / YouTube     | Worth It? |
 |-----------------|:--------------------:|:--------------------:|:--------------------:|
 |[ITProTV](https://www.itpro.tv/)| IT Career Advancement | [Website Here](https://www.itpro.tv/) |👍 |
-|[Server Academy](https://www.youtube.com/c/ServerAcademy) | Windows Administration | [YouTube Here](https://www.youtube.com/c/ServerAcademy) |   👍   |
 |[FreeCodeCamp](https://www.freecodecamp.org/) | Learning Python | [Website Here](https://www.freecodecamp.org/) | 👍 |
+|[The Odin Project](https://www.theodinproject.com) | Learning Full-Stack Web Development | [Website Here](https://www.theodinproject.com) | 👍 |
 |[Udemy](https://www.udemy.com/) | Too Many To List | [Website Here](https://www.udemy.com/) | 👍 |
 
 ## License
